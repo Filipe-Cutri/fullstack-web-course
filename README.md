@@ -50,7 +50,6 @@ O objetivo deste repositório é consolidar conhecimentos em desenvolvimento web
 - Praticar consumo e criação de APIs REST
 - Trabalhar com bancos de dados NoSQL
 - Desenvolver interfaces responsivas
-- Aplicar boas práticas de desenvolvimento
 
 ---
 
