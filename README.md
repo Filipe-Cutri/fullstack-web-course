@@ -46,7 +46,6 @@ O objetivo deste repositório é consolidar conhecimentos em desenvolvimento web
 ## 🎯 Objetivos
 
 - Aprender desenvolvimento Full Stack moderno
-- Construir aplicações web completas
 - Praticar consumo e criação de APIs REST
 - Trabalhar com bancos de dados NoSQL
 - Desenvolver interfaces responsivas
@@ -85,7 +84,6 @@ The main goal of this repository is to strengthen my front-end and back-end web 
 ## 🎯 Goals
 
 - Learn modern Full Stack development
-- Build complete web applications
 - Practice REST API development and consumption
 - Work with NoSQL databases
 - Develop responsive interfaces
