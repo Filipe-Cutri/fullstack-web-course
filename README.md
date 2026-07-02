@@ -20,7 +20,7 @@
 
 Repositório criado para armazenar meus estudos, exercícios e projetos desenvolvidos durante o curso de **Full Stack Web Development**.
 
-O objetivo deste repositório é consolidar conhecimentos em desenvolvimento web front-end e back-end, utilizando tecnologias modernas do ecossistema JavaScript.
+O objetivo deste repositório é consolidar conhecimentos em desenvolvimento web front-end e back-end, utilizando tecnologias modernas do ecossistema JavaScript
 
 ---
 
